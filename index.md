@@ -1,7 +1,7 @@
 ## Welcome to WhereFlip
 #### a wonderful place dedicated to help you know where your Flipper is
 
-## do you know where your flipper is ?
+## Do you know where your flipper is ?
 <!-- 
 ## Welcome to GitHub Pages
 
