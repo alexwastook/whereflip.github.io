@@ -1,5 +1,5 @@
 ## Welcome to WhereFlip
-### a wonderful place dedicated to help you know where your FlipperZero is
+#### a wonderful place dedicated to help you know where your FlipperZero is
 
 ## do you know where your flipper is ?
 <!-- 
