@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  -->
 
  ## Welcome to WhereFlip
- ### a wonderful place dedicated to help you knowing where your flip is
+ ### a wonderful place dedicated to help you knowing where your FlipperZero is
