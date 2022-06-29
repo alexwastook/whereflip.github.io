@@ -3,6 +3,11 @@
 <br>
 
 ## Do you know where your flipper is ?
+
+<div class="my_buttons">
+	<a onclick="my_function()" class="button" id="i_need_this">Yes</a>
+    <a onclick="window.location.href = 'page1';" class="button">No</a>
+</div>
 <!-- 
 ## Welcome to GitHub Pages
 
