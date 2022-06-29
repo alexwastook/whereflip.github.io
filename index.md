@@ -1,6 +1,6 @@
 ## Welcome to WhereFlip
 #### a wonderful place dedicated to help you know where your Flipper is
-
+<br>
 
 ## Do you know where your flipper is ?
 <!-- 

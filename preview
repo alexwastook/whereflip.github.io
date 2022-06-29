@@ -1,0 +1,3 @@
+cd docs
+bundle exec jekyll serve -s .. > /dev/null 2>&1 & 
+google-chrome-stable http://localhost:4000 > /dev/null 2>&1 &
