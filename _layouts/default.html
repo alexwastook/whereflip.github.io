@@ -24,6 +24,10 @@
         margin: 4px 2px;
         cursor: pointer;
       }
+
+      #my_buttons {
+        justify-content: space-evenly;
+      }
     </style>
 
   </head>
@@ -56,8 +60,11 @@
       <section id="main_content" class="inner">
         {{ content }}
       </section>
-      <a onclick="alert('So why are you here ?')" class="button">Oui</a>
-      <a href="https://www.w3docs.com/" class="button">Non</a>
+      <div id="my_buttons">
+        <a onclick="alert('So why are you here ?')" class="button">Oui</a>
+        <a href="https://www.w3docs.com/" class="button">Non</a>
+      </div>
+      
     </div>
 
     <!-- FOOTER  -->
