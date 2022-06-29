@@ -1,4 +1,4 @@
-<button name="button" onclick="http://www.google.com">Test</button>
+[Click me](http://www.google.com){: .btn}
 
 ## Welcome to GitHub Pages
 
